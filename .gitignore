@@ -1,0 +1,64 @@
+# Dependencies
+**/node_modules
+**/.pnp
+**/.pnp.js
+
+# Testing
+**/coverage
+
+# Production
+**/build
+**/dist
+
+# Misc
+**/.DS_Store
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Logs
+**/logs
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# IDE
+**/.idea
+**/.vscode
+**/*.swp
+**/*.swo
+
+# iOS
+**/ios-frontend/Pods
+**/ios-frontend/.xcode.env.local
+**/ios-frontend/build/
+**/ios-frontend/DerivedData
+**/ios-frontend/*.pbxuser
+**/ios-frontend/!default.pbxuser
+**/ios-frontend/*.mode1v3
+**/ios-frontend/!default.mode1v3
+**/ios-frontend/*.mode2v3
+**/ios-frontend/!default.mode2v3
+**/ios-frontend/*.perspectivev3
+**/ios-frontend/!default.perspectivev3
+**/ios-frontend/xcuserdata
+**/ios-frontend/*.xccheckout
+**/ios-frontend/*.moved-aside
+**/ios-frontend/*.xcuserstate
+**/ios-frontend/project.xcworkspace
+
+# Android
+**/android-frontend/build/
+**/android-frontend/app/build/
+**/android-frontend/.gradle
+**/android-frontend/local.properties
+**/android-frontend/.idea/
+**/android-frontend/*.iml
+**/android-frontend/captures/
+**/android-frontend/.externalNativeBuild
+**/android-frontend/.cxx
+**/android-frontend/*.apk
+**/android-frontend/app/release 
