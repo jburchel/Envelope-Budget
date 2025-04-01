@@ -15,9 +15,9 @@ This to-do list outlines the steps to develop the Envelope Budgeting App using a
   - [x] Create a `main` branch as the stable base (initial commit with empty dirs).\
   - [x] Create feature branches: `web-dev`, `backend-dev`, `ios-dev`, `android-dev` (from `main`).\
   - [x] Keep it simple: Work in these branches, merge to `main` when stable.\
+  - [x] Push all branches to GitHub repository and rename master to main.\
 - [x] **Install Development Tools**\
   - [x] Ensure team has SDKs/runtimes (Node.js, Swift, Kotlin) and IDEs (VS Code, Xcode, Android Studio).\
-  - [x] Push all branches to GitHub repository.\
   - [x] Configure linters/formatters in each directory (e.g., ESLint + Prettier in `web-frontend/`, SwiftLint in `ios-frontend/`).\
 - [x] **Initialize Projects**\
   - [x] In `web-frontend/`: Set up React/Vue project (e.g., `npx create-react-app .`).\
